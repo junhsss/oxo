@@ -1,0 +1,9 @@
+[package]
+name = "oxo-kernel"
+version = "0.0.0"
+edition = "2021"
+
+[lib]
+name = "oxo_kernel"
+
+[dependencies]
